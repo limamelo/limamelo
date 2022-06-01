@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL.",
   "UrlUpdate": "https://bitbin.it/0RcB7r6u/raw/",
   "Sms": "https://bitbin.it/1VLycrv9/raw",
@@ -27,7 +27,7 @@
   "Servers": [
     {
       "Name": "CAKE DRAGON | PLUS",
-      "TYPE": "premium",
+      "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "proxy.worldofdragon.xyz",
       "CheckUser": "true",
@@ -38,7 +38,7 @@
     },
     {
       "Name": "SERVIDOR | SSL",
-      "TYPE": "free",
+      "TYPE": "FREE",
       "FLAG": "br.png",
       "ServerIP": "bra2.hackkcah.tk",
       "CheckUser": "true",
@@ -80,7 +80,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "TIM [SSL 3]",
+      "Name": "TIM OFF",
       "FLAG": "tim",
       "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "emartim.com.br",
